@@ -31,7 +31,7 @@
 
 2. 불쾌지수에 따른 식수 인원은 차이가 존재하지 않는다.
 - H0: 차이가 없다 / H1: 차이가 있다.
-- 검정 결과 p-value가 0.05보다 커 H0 ㅊ채택
+- 검정 결과 p-value가 0.05보다 커 H0 채택
 
 #### 구내식당 식수 예측 모델
 - GradientBoostingRegressor, RandomForestRegressor, CatBoostRegressor, NGBRegressor 앙상블 진행
